@@ -3,7 +3,7 @@
 The Bookstore is a website with two subpages: "Books" and "Categories." Which enables users to add and display book lists.
 ## Screenshot
 
-[screenshot]
+![screenshot](https://user-images.githubusercontent.com/38283436/155967064-6963671d-e3d5-481c-a335-6b57c85f3ae2.png)
 
 ## Live Demo
 
