@@ -18,17 +18,18 @@ const Books = () => {
           <div className="book-info">
             <h3 className="book-category">{books[0].category}</h3>
             <h2 className="book-title">{books[0].title}</h2>
-            <h4 className="book-author">Author name</h4>
+            <h4 className="book-author">Tarikwa Tesfa</h4>
             <ul className="book-events">
-              <button type="button">Comments</button>
+              <button type="button" className="btn-2">Comments</button>
               <button
                 type="button"
+                className="btn-2"
                 onClick={(e) => remove(e.target.id)}
                 id={Object.keys(booksState)[index]}
               >
                 Remove
               </button>
-              <button type="button">Edit</button>
+              <button type="button" className="btn-2">Edit</button>
             </ul>
           </div>
           <div className="book-completion">

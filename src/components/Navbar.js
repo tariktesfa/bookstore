@@ -1,3 +1,4 @@
+import { BsPerson } from 'react-icons/bs';
 import { Link } from 'react-router-dom';
 
 const Navbar = () => (
@@ -11,6 +12,7 @@ const Navbar = () => (
         <Link to="/categories">CATEGORIES</Link>
       </li>
     </ul>
+    <BsPerson className="user-icon" />
   </nav>
 );
 
