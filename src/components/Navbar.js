@@ -1,10 +1,10 @@
 import { Link } from 'react-router-dom';
 
 const Navbar = () => (
-  <nav className="navbar">
+  <nav className="navigation-bar">
     <h1 className="title">Bookstore CMS</h1>
-    <ul className="nav-links">
-      <li className="active">
+    <ul className="navigation-links">
+      <li id="active">
         <Link to="/">BOOKS</Link>
       </li>
       <li>
