@@ -64,7 +64,7 @@ a {
   width: 76vw;
 }
 
-.navigation-bar {
+.navigation {
   background-color: #fff;
   display: grid;
   grid-template-columns: 1fr 2fr 1fr;

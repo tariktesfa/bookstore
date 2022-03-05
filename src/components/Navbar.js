@@ -2,7 +2,7 @@ import { BsPerson } from 'react-icons/bs';
 import { Link } from 'react-router-dom';
 
 const Navbar = () => (
-  <nav className="navigation-bar">
+  <nav className="navigation">
     <h1 className="title">Bookstore CMS</h1>
     <ul className="navigation-links">
       <li id="active">
