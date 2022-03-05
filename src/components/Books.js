@@ -18,7 +18,7 @@ const Books = () => {
           <div className="book-info">
             <h3 className="book-category">{books[0].category}</h3>
             <h2 className="book-title">{books[0].title}</h2>
-            <h4 className="book-author">Author name</h4>
+            <h4 className="book-author">Tarikwa Tesfa</h4>
             <ul className="book-events">
               <button type="button">Comments</button>
               <button
