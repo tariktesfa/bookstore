@@ -68,7 +68,7 @@ const Form = () => {
           <option value="romance">Crime</option>
           <option value="fantasy">True Story</option>
         </select>
-        <button className="btn-2" type="submit">
+        <button className="btn-add" type="submit">
           ADD BOOK
         </button>
       </form>

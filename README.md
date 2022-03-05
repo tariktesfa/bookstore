@@ -7,6 +7,7 @@ The Bookstore is a website with two subpages: "Books" and "Categories." Which en
 
 ## Live Demo
 
+[Live Link](https://friendly-newton-8b8f1c.netlify.app/)
 ## Built With
 
 - React
